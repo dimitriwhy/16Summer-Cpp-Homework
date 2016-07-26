@@ -1,0 +1,1 @@
+g++ -o main main.cpp Management.cpp Convert.cpp FileSet.cpp SetHeader.cpp FileTag.cpp sha1.cpp -g -Wall

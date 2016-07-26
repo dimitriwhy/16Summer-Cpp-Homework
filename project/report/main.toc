@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}实验内容}{2}{section.1}
+\contentsline {section}{\numberline {2}实验设计}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}归档文件结构}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}类的功能设计}{3}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}归档功能实现}{3}{subsection.2.3}
+\contentsline {section}{\numberline {3}其他实现细节若干}{4}{section.3}
+\contentsline {subsection}{\numberline {3.1}关于Convert}{4}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}关于序列化字符串}{4}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}关于文件状态}{4}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}关于内存泄露}{5}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}关于SHA1}{5}{subsection.3.5}
+\contentsline {section}{\numberline {4}最后的话}{5}{section.4}
